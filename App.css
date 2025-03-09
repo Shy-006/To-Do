@@ -3,17 +3,17 @@ body {
   background-color: #f4f4f4;
   text-align: center;
   margin: 0;
-  height: 100vh; /* Full viewport height */
+  height: 100vh; 
   display: flex;
-  justify-content: center; /* Center horizontally */
-  align-items: center; /* Center vertically */
+  justify-content: center;
+  align-items: center; 
   padding: 20px;
 }
 
 .container {
   background: white;
   width: 100%;
-  max-width: 360px; /* Ensures it doesn't get too wide on larger screens */
+  max-width: 360px; 
   padding: 20px;
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
   border-radius: 8px;
